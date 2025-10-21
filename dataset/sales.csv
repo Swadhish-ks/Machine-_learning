@@ -1,0 +1,13 @@
+,Month,Sales,Profit,Customers,Region
+0,Jan,120,20,40,North
+1,Feb,150,25,45,South
+2,Mar,170,28,50,East
+3,Apr,160,26,48,West
+4,May,180,30,52,North
+5,Jun,200,35,58,South
+6,Jul,220,38,60,East
+7,Aug,210,36,59,West
+8,Sep,190,32,55,North
+9,Oct,170,28,50,South
+10,Nov,160,26,48,East
+11,Dec,180,30,52,West
